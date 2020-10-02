@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newagent-iymy",
+  "private_key_id": "",
+  "private_key": "5\nj+I8W+7Xrdw30Oh0biMJJK8laHfSPhq346j5gG0IY/11Tigp4TSJQ3oqXZbW4YV+Qizh\nDjRFrdVNV02NiE7FSkjFINr1Fp/wbVQJhM9XDP9glQKBgQD21eturZ8zjHv5kw79\nn4pt4UhcSq+BMCU1+hTWyU4smerQNx/z9SlEiyYHlXYZbsnn90VeDpY2eDclQvGG\nTR+uUra09HvfB3iWYwzLGjKPc5KWFFoqelwbha80kAOevHnva5rwPOKk/9X7yOpb\n6Ta3d/YIi1Z4R54s9sozV9dwawKBgQDWXRUAUpEQozR+ONMTGfKalkdMVRwqs15R\n9Yh3FuEY5IdapmxNyJes0gX/kZJLQeZLwFdsFIP8RMLI5L2EnSAaOZQLq+agF6wk\nZYwcmFnKcvN7tjo6v8xOyBxJ8vV1RpPHELJnvvriYF6Caxkdv8C+cjEECRKAbxdI\nxaN10C4UrQKBgAkjHhX4w13rI2O3t+RXlY4/uqf/88M6fwYifcb9qLEp+XE/uSUU\nvDRXWk8Jj1edrEez9ZNnwtO9W307nykzjaqsUSsdqcA1zJb0j7KtA5Yf1xtLIZNU\n+DfkmPm/IwMrQvBD8XZXKqSk+8zYQSSp22arQCZM0iSdshNEB3QjGkyFAoGBAMFJ\nOweIa385+boaWNBvZB5ZhL5iO7yQ8WorX7op6hu87AMj7qIQThspYPk5dFThfdst\n+mXc9cmA4rWr8urhlrGu2zvO62vNDI3g9n5OLSBrl/ojrMuOZ5VdwIw5Q3RUiClF\nd+gt/yAhzvX/xazaWtweMO43k/Q0tyUJ+ELhzLsdAoGAf/l2G6dfAbCLy6dCjckT\nWO0+0YsvBvkoSzljD9DyhsQVC/f6lCDwsB3oLEBmWsiUcRm7I+m5grGKFPr9mMZU\nDMZ5Yy5jj63PpLoMJ93l+sfV0tp7KDad8WkvStkeXkZ/BafvRtxD2va+EqbGEjr1\nIsXsZ7DX3c30t4F1eQ7Oo/I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": ""
+}
